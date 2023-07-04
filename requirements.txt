@@ -1,5 +1,5 @@
 numpy==1.25.0
-stremlit>=1.2.1
+streamlit
 sklearn
 scikit-learn
 
