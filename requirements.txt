@@ -1,0 +1,3 @@
+numpy  1.25.0
+sklearn
+stremlit 1.24.0
